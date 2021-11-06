@@ -3,7 +3,7 @@
 
 # Step 2. Build your project using npm build
 # This step is pretty self explanatory, we actually need to have a dist folder to deploy.
-git add . && git commit -m "before build" && git push origin
+# git add . && git commit -m "before build" && git push origin
 
 npm run build
 
