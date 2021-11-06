@@ -5,7 +5,7 @@
     <img
       src="../assets/祈福-所有生命都被尊重.svg"
       alt="福-所有生命都被尊重"
-      width="400"
+      width="340"
     />
   </div>
 </template>

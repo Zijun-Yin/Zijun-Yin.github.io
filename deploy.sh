@@ -1,10 +1,11 @@
 # Deploying Your Vue Project
 # With our Vue publicPath configured, we can now work on deploying our project.
 
+# before build, you should have commit all the tings.
+git add . && git commit -m "before build" && git push origin
+
 # Step 2. Build your project using npm build
 # This step is pretty self explanatory, we actually need to have a dist folder to deploy.
-# git add . && git commit -m "before build" && git push origin
-
 npm run build
 
 # Step 3. Run git add dist && git commit -m 'adding dist subtree'
