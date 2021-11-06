@@ -3,7 +3,8 @@
 
 # Step 2. Build your project using npm build
 # This step is pretty self explanatory, we actually need to have a dist folder to deploy.
-git commit 
+git add . && git commit -m "before build"
+
 npm run build
 
 # Step 3. Run git add dist && git commit -m 'adding dist subtree'
