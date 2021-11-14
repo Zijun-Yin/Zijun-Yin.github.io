@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{d490:function(n,t,e){n.exports=e.p+"img/祈福-所有生命都被尊重.b439e889.svg"},f820:function(n,t,e){"use strict";e.r(t);var c=e("7a23"),a=e("d490"),b=e.n(a),o={class:"about"},s=Object(c["e"])("h1",null,"Baby 小芳芳",-1),u=Object(c["e"])("img",{src:b.a,alt:"福-所有生命都被尊重",width:"340"},null,-1),d=[s,u];function i(n,t){return Object(c["p"])(),Object(c["d"])("div",o,d)}var r=e("6b0d"),p=e.n(r);const l={},w=p()(l,[["render",i]]);t["default"]=w}}]);
-//# sourceMappingURL=about.1b6ab7a6.js.map
