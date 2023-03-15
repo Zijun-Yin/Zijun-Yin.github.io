@@ -8,6 +8,6 @@ uniform float u_time;// 时间（加载后的秒数）
 
 void main(){
     vec2 st=gl_FragCoord.xy/u_resolution;
-    float a=1.-0.5*sin(length((gl_FragCoord.xy-u_mouse)/u_resolution));
-    gl_FragColor=vec4(st.x,st.y,abs(sin(u_time)),a);
+    // float a=1.-0.5*sin(length((gl_FragCoord.xy-u_mouse)/u_resolution));
+    gl_FragColor=vec4(st.x,st.y,abs(sin(u_time)),1.);
 }
